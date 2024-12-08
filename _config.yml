@@ -26,8 +26,8 @@ description: La simplicité pure >- # this means to ignore newlines until "baseu
   Google search results) and in your feed.xml site description.
 baseurl: "/frero" # blog
 url: "https://MimmoNico8094.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: MimmoNico8094
+github_username:  MimmoNico8094
 
 # Build settings
 theme: minima
