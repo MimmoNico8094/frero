@@ -11,5 +11,5 @@ Bienvenue chez Frero
 Nous sommes heureux de vous accueillir dans notre restaurant.
 
 Découvrez notre menu
-Consultez notre [menu](/menu/) pour voir nos délicieux plats.layout: home
+Consultez notre [menus](/menu/) pour voir nos délicieux plats.layout: home
 ---
